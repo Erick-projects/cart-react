@@ -1,0 +1,21 @@
+[
+    {
+      "id": 1,
+      "nombre": "Proyecto 1",
+      "descripcion": "Descripción del proyecto 1",
+      "monto": 1000,
+      "fechaInicio": "2024-03-01",
+      "categoria": "Alimentación",
+      "tipoProyecto": "ambiental"
+    },
+    {
+      "id": 2,
+      "nombre": "Proyecto 2",
+      "descripcion": "Descripción del proyecto 2",
+      "monto": 2000,
+      "fechaInicio": "2024-03-02",
+      "categoria": "Desarrollo de Software",
+      "tipoProyecto": "no-ambiental"
+    }
+  ]
+  
